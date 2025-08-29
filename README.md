@@ -6,7 +6,7 @@ A Streamlit web application that intelligently ranks community posts by **releva
 
 ## 🚀 Live Demo
 
-**[View Live App](https://content-ranker-app-demo-aiden.streamlit.app/))**  
+**[View Live App](https://content-ranker-app-demo-aiden.streamlit.app/)**  
 
 ## ✨ Features
 
