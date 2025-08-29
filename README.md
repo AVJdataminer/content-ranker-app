@@ -38,8 +38,8 @@ Where W₁, W₂, W₃ are user-adjustable weights.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/content_ranker_starter.git
-cd content_ranker_starter
+git clone https://github.com/AVJdataminer/content-ranker-app.git
+cd content-ranker-app
 
 # Create virtual environment
 python3 -m venv .venv
@@ -137,7 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aiden Johnson**
 - Email: [aiden.dataminer@gmail.com](mailto:aiden.dataminer@gmail.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@AVJdataminer](https://github.com/AVJdataminer)
 
 ---
 
