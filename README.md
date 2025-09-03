@@ -28,6 +28,8 @@ Final Score = (Relevance × W₁) + (Helpfulness × W₂) + (Trustworthiness × 
 
 Where W₁, W₂, W₃ are user-adjustable weights.
 
+📖 **For detailed algorithm documentation, see [RANKING_ALGORITHM.md](RANKING_ALGORITHM.md)**
+
 ## 🛠️ Local Development
 
 ### Prerequisites
@@ -70,6 +72,8 @@ content_ranker_starter/
 ├── data/
 │   └── sample_posts.json # Sample community posts
 ├── README.md             # This file
+├── RANKING_ALGORITHM.md  # Detailed algorithm documentation
+├── DEPLOYMENT.md         # Deployment instructions
 └── .gitignore           # Git ignore rules
 ```
 
